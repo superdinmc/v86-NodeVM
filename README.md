@@ -14,7 +14,7 @@ File count : 2(the script will extract file from itself)
  - Smart Ctrl+C exit
  - Start within 15 seconds
  - Auto login
- - Can run Linux64 apps
+ - Yes its a linux
  - Optimized for server
 ###### repo files
  - compiler.bat - yes it compiles
