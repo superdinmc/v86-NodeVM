@@ -10,7 +10,7 @@ Ram usage : ~250mb
 File count : 2(the script will extract file from itself)
 ## features
  - Closure compiled
- - 1 included dependency
+ - bundled dependency
  - Smart Ctrl+C exit
  - Start within 15 seconds
  - Auto login
@@ -21,8 +21,6 @@ File count : 2(the script will extract file from itself)
  - compiler.jar - closure compiler
  - nodejs.js - source file
  - NodeVM.js - compiled file
- - libv86.js - Library, unused in v1
- - v86.wasm - Library's dependency, unused in v1
 ###### credits
 This project cannot work without its great core, [v86](https://github.com/copy/v86/)
 
