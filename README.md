@@ -16,6 +16,11 @@ File count : 2(the script will extract file from itself)
  - Auto login
  - Can run Linux64 apps
  - Optimized for server
+###### repo files
+ - compiler.bat - yes it compiles
+ - compiler.jar - closure compiler
+ - nodejs.js - source file
+ - NodeVM.js - compiled file
 ###### credits
 This project cannot work without its great core, [v86](https://github.com/copy/v86/)
 
