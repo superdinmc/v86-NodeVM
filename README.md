@@ -5,9 +5,9 @@ OS : Buildroot linux
 
 BIOS : Seabios
 
-Ram usage : ~250mb
+Ram usage : ~250 - 315mb
 
-File count : 2(the script will extract file from itself)
+File count : 2(Autosave and script itself...)
 ## features
  - Closure compiled
  - bundled dependency
@@ -16,6 +16,9 @@ File count : 2(the script will extract file from itself)
  - Auto login
  - Yes its a linux
  - Optimized for server
+ - Everything compressed, current version(v1.2.0) only use 8mb of storage for main script
+## TODO
+ - Deprecate autosave, buildroot linux doesnt support filesystem that is compatible with autosave
 ###### repo files
  - compiler.bat - yes it compiles
  - compiler.jar - closure compiler
