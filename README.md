@@ -5,6 +5,8 @@ OS : Buildroot linux
 
 BIOS : Seabios
 
+Compiled size : 8mb
+
 Ram usage : ~250 - 315mb
 
 File count : 2(Autosave and script itself...)
