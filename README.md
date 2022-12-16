@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/42496449/206863423-0b327819-b7d0-44c0-
  - compiler.jar - closure compiler
  - nodejs.js - source file
  - NodeVM.js - compiled file
+ - compress_tool/ - Gzip compression for OS replacement
 ###### credits
 This project cannot work without its great core, [v86](https://github.com/copy/v86/)
 
