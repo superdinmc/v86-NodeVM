@@ -23,6 +23,7 @@ https://user-images.githubusercontent.com/42496449/206863423-0b327819-b7d0-44c0-
  - Everything compressed, current version(v1.2.0) only use 8mb of storage for main script
 ## TODO
  - Deprecate autosave, buildroot linux doesnt support filesystem that is compatible with autosave
+ - NETWORK SUPPORT
 ###### repo files
  - compiler.bat - yes it compiles
  - compiler.jar - closure compiler
